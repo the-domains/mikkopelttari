@@ -1,0 +1,28 @@
+name: mikkopelttari
+favicon: null
+layout_spectrum: 0.195894795935601
+typography_spectrum: 0.14263911033049226
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5628413869999349
+  lightness: 0.966783398296684
+  saturation: 0.22738416329957545
+  rhythmicContrast: 0.7690006042830646
+purpose: []
