@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[mikkopelttari]]></title>
         <description><![CDATA[mikkopelttari]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mikkopelttari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 19:16:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 19:06:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mikkopelttari/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mikko Pelttari]]></title>
+            <description><![CDATA[<article><h1>Mikko Pelttari</h1><p>Päivisin tiedetoimittaja Yliopisto-lehdessä. Kiinnostunut ilmastosta, ihmisestä, tieteellisestä ajattelusta, totuudesta ja tietämättömyydestä. Työsähköposti (a)helsinki.fi.</p></article>]]></description>
+            <link>https://thegrid.ai/mikkopelttari/mikko-pelttari/index.html</link>
+            <guid isPermaLink="false">b091b351-cab9-4751-92a3-cb905325285f</guid>
+            <pubDate>Thu, 17 Mar 2016 19:06:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6429b092-046b-460c-ab3e-fb0b4288e3e6.jpg">]]></description>
-            <link>undefined2c1ad643-da46-412c-9f9a-9de94aaa0d00/index.html</link>
+            <link>https://thegrid.ai/mikkopelttari/2c1ad643-da46-412c-9f9a-9de94aaa0d00/index.html</link>
             <guid isPermaLink="false">2c1ad643-da46-412c-9f9a-9de94aaa0d00</guid>
             <pubDate>Tue, 15 Mar 2016 19:16:37 GMT</pubDate>
         </item>
